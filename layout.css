@@ -33,12 +33,6 @@ div#pic {
     margin-bottom: 2em;
 }
 
-img#crane {
-    border: solid black 1px;
-    width: 200px;
-    height: auto;
-}
-
 div#desc {
     margin-bottom: 2em;
 }
@@ -69,7 +63,7 @@ a {
     color: #F5D4C8;
 }
 
-span.mark2 {
+span.mark {
     font-weight: bold;
 }
 
